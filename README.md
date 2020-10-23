@@ -1,6 +1,8 @@
 # dna-center
 [Diagram](https://app.diagrams.net/#G1htz_zbka45oODL4kBhAl8ijqtznvyS87)
 
+[Responsive Design Strategy](https://shaydeecoder.hashnode.dev/responsive-design-strategy-ckglskkmd087pnzs13xfhf85f)
+
 # แบบฟอร์ม
 รายละเอียดสำหรับการลงทะเบียน
 1.	ชื่อสมาชิก...................................  นามสกุล............................................
