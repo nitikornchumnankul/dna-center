@@ -3,6 +3,8 @@
 
 [Responsive Design Strategy](https://shaydeecoder.hashnode.dev/responsive-design-strategy-ckglskkmd087pnzs13xfhf85f)
 
+[Flutter Web : Responsive Landing Page - Speed Code](https://www.youtube.com/watch?v=87cz-ihAJ-8&list=RDCMUC9dwxEAvy-zCMAS7rdox46w&start_radio=1&t=5)
+
 # แบบฟอร์ม
 รายละเอียดสำหรับการลงทะเบียน
 1.	ชื่อสมาชิก...................................  นามสกุล............................................
