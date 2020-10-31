@@ -1,5 +1,7 @@
 # dna-center
 [Diagram](https://app.diagrams.net/#G1htz_zbka45oODL4kBhAl8ijqtznvyS87)
+ 
+[Data Base Diagram](https://dbdiagram.io/d/5f9d5c2d3a78976d7b79eec0)
 
 [Responsive Design Strategy](https://shaydeecoder.hashnode.dev/responsive-design-strategy-ckglskkmd087pnzs13xfhf85f)
 
